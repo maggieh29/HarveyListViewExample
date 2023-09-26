@@ -1,0 +1,8 @@
+Maggie Harvey
+1. Identify the parts of the code
+UI: in the activity_main xml
+String resources: in res>values>strings.xml
+Populate list view method takes a int input of 1 or 2 and chooses to use the string or data
+resource depending on the variable.
+These method are defined but empty below the populate method.
+
